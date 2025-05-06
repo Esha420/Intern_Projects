@@ -49,3 +49,4 @@ for sign in plus_signs:
     print(f"Plus at center {sign['center']} with arm length {sign['arm_length']}:")
     print(f"  Elements: {sign['elements']}")
     print(f"  Sum: {sign['sum']}\n")
+    
