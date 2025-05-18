@@ -1,0 +1,11 @@
+id,username,password,tier,balance
+1,testuser,testpass,Gold,1000.0
+2,alice,al!ce123,Silver,750.5
+3,bob,b0b!321,Bronze,300.0
+4,charlie,charl!e,Gold,1200.0
+5,diana,d1@n@123,Silver,540.25
+6,edward,edw@rD99,Bronze,250.0
+7,frank,fr4nkPass,Gold,1800.0
+8,grace,gr@ce12,Bronze,420.75
+9,helen,h3len!23,Silver,880.0
+10,ian,1@n_pass,Gold,1340.6

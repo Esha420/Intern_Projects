@@ -1,0 +1,16 @@
+id,sender_id,receiver_id,amount,type,details,timestamp
+1,1,2,100.0,Send Money,Rent share,2025-05-08 04:33:36
+2,2,3,50.0,Send Money,Lunch reimbursement,2025-05-09 10:15:00
+3,3,1,25.0,Send Money,Returned borrowed money,2025-05-10 09:45:12
+4,4,5,200.0,Send Money,Birthday gift,2025-05-11 17:20:45
+5,5,2,60.0,Send Money,Shared utility bill,2025-05-12 08:55:30
+6,6,7,15.5,Send Money,Coffee split,2025-05-13 13:20:00
+7,7,6,30.0,Send Money,Book purchase refund,2025-05-13 18:40:00
+8,8,9,90.0,Send Money,Trip expense,2025-05-14 12:10:00
+9,9,10,120.0,Send Money,Gift,2025-05-15 09:50:20
+10,10,8,60.0,Send Money,Back payment,2025-05-15 11:05:00
+11,3,2,70.0,Send Money,Group dinner,2025-05-16 14:15:25
+12,1,4,150.0,Send Money,Loan repayment,2025-05-17 16:00:00
+13,2,10,130.0,Send Money,Travel contribution,2025-05-18 10:10:10
+14,9,5,85.0,Send Money,Grocery split,2025-05-18 12:00:00
+15,6,8,40.0,Send Money,Event tickets,2025-05-18 15:25:40
